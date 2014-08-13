@@ -1,0 +1,107 @@
+08/04/2014 09:08:42 Checking for existence of Branding Active Setup stub...
+08/04/2014 09:08:42 InternetExplorerBrandGUID didn't exist: Branding component not installed
+08/04/2014 09:08:42 Inf Version is set to "8,00,7600,16385".
+08/04/2014 09:08:42 Package Maj version is 9
+08/04/2014 09:08:42 Package Min version is 0
+08/04/2014 09:08:42 Package Qfe version is 8112
+08/04/2014 09:08:42 Package Bld version is 16421
+08/04/2014 09:08:42 Inf version is smaller than version of IE package.
+08/04/2014 09:08:42 Branding conditions failed. Applying only default branding.
+
+08/04/2014 09:08:42    COM initialized with S_OK success code.
+
+08/04/2014 09:08:42 Branding Internet Explorer...
+08/04/2014 09:08:42 Command line is "/mode:isp /peruser".
+
+08/04/2014 09:08:42 Global branding settings are:
+08/04/2014 09:08:42    Context is (0x01C00008) "Internet Content Providers, running from per-user stub";
+08/04/2014 09:08:42    Settings file is        "C:\Program Files\Internet Explorer\Signup\install.ins";
+08/04/2014 09:08:42    Target folder path is   "C:\Program Files\Internet Explorer\Signup".
+08/04/2014 09:08:42 Done.
+
+08/04/2014 09:08:42    About to clear previous branding...
+08/04/2014 09:08:42    Done.
+
+08/04/2014 09:08:42    Processing migration of old settings...
+08/04/2014 09:08:42    Done.
+
+08/04/2014 09:08:42    Processing wininet setup...
+08/04/2014 09:08:42    Done.
+
+08/04/2014 09:08:42    Processing deletion of connection settings...
+08/04/2014 09:08:42    Done.
+
+08/04/2014 09:08:42    Processing zones HKCU settings...
+08/04/2014 09:08:42    Done.
+
+08/04/2014 09:08:42    Processing local machine policies and restrictions...
+08/04/2014 09:08:42    Done.
+
+08/04/2014 09:08:42    Processing current user policies and restrictions...
+08/04/2014 09:08:42    Done.
+
+08/04/2014 09:08:42    Processing legacy policies and restrictions...
+08/04/2014 09:08:42    Done.
+
+08/04/2014 09:08:42    Processing general customizations...
+08/04/2014 09:08:42    Done.
+
+08/04/2014 09:08:42    Processing Help->About customization...
+08/04/2014 09:08:42    Done.
+
+08/04/2014 09:08:42    Processing browser toolbar buttons...
+08/04/2014 09:08:42    Done.
+
+08/04/2014 09:08:42    Processing root certificates...
+08/04/2014 09:08:42    Done.
+
+08/04/2014 09:08:42    Processing default favorites and/or quick links...
+08/04/2014 09:08:42    Creating separate thread for processing default favorites...
+
+08/04/2014 09:08:42    COM initialized with S_OK success code.
+08/04/2014 09:08:42    Done.
+
+08/04/2014 09:08:42    Processing deletion of favorites and/or quick links...
+08/04/2014 09:08:42    Done.
+
+08/04/2014 09:08:42    Processing favorites...
+08/04/2014 09:08:42    Done.
+
+08/04/2014 09:08:42    Processing ordering of favorites...
+08/04/2014 09:08:42    Done.
+
+08/04/2014 09:08:42    Processing quick links...
+08/04/2014 09:08:42    Done.
+
+08/04/2014 09:08:42    Processing ordering of quick links...
+08/04/2014 09:08:42    Done.
+
+08/04/2014 09:08:42    Processing connection settings...
+08/04/2014 09:08:42    Done.
+
+08/04/2014 09:08:42    Processing TrustedPublisherLockdown restriction...
+08/04/2014 09:08:42    Done.
+
+08/04/2014 09:08:42    Creating feeds...
+08/04/2014 09:08:43    Done.
+
+08/04/2014 09:08:43    Creating start pages...
+08/04/2014 09:08:43    Done.
+
+08/04/2014 09:08:43    Creating search providers...
+08/04/2014 09:08:43    Done.
+
+08/04/2014 09:08:43    Installing Activities...
+08/04/2014 09:08:43    Done.
+
+08/04/2014 09:08:43    Installing Unattend Favorite bar items...
+08/04/2014 09:08:43    Done.
+
+08/04/2014 09:08:43    Installing Unattend Activites...
+08/04/2014 09:08:43    Done.
+
+08/04/2014 09:08:43    Refreshing browser settings...
+08/04/2014 09:08:43    Broadcasting "Windows settings change" to all top level windows...
+08/04/2014 09:08:43    Done.
+08/04/2014 09:08:43 Done.
+08/04/2014 09:08:43 Done.
