@@ -1,0 +1,4 @@
+[Sun Aug 03 17:55:27 2014] debug  : AUCHECK STARTED
+[Sun Aug 03 17:55:27 2014] debug  : No Override, downloading from http://javadl-esd.sun.com/update/AU/map-2.0.2.4.xml
+[Sun Aug 03 17:55:36 2014] debug  : Parsing XML file
+[Sun Aug 03 17:55:36 2014] debug  : XmlParser Constructor failed: Exit now
